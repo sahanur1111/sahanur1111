@@ -1,4 +1,3 @@
-<img align="right" height="150" src=""  />
 
 ###
 
@@ -12,7 +11,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working My Project.<br>- 📚 I'm currently learning Full Stack development.<br>- ⚡ In my free time I Solve problem.</p>
+<p align="left">I'm Sahanur Alam from Jadavpur University<br><br>- 🔭 I’m working My Project.<br>- 📚 I'm currently learning Full Stack development.<br>- ⚡ In my free time I Solve problem.</p>
 
 ###
 
