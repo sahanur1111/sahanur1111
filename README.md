@@ -55,6 +55,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanur1111&" alt="sahanur1111" /></p>
 
+# LEETCODE Profile:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sahanur7312?theme=dark&font=Suravaram)](https://leetcode.com/sahanur7312/)
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
